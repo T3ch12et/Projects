@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0812816619873, 29.951048887414697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.08216142654419, 29.94919896136665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.04510402679443, 29.94513179189634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.08366346359253, 29.936378679113535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.08710205554962, 29.918553975723874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.02643585205078, 29.943490932441158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.06908297538756, 29.961562135045373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.03218650817871, 29.964936177766436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.9719226360321, 30.032355812993096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.09053528308867, 29.96825898666992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.07856726646423, 29.946419359539018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Evacuation Shelter" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.10797500610352, 29.996719054838813]
+      }
+    }
+  ]
+}
