@@ -1,3 +1,6 @@
 [submodule "Climate_Change/project-report-saejinm"]
 	path = Climate_Change/project-report-saejinm
 	url = https://github.com/info201a-wi20/project-report-saejinm.git
+[submodule "Climate_Change/project-app-T3ch12et"]
+	path = Climate_Change/project-app-T3ch12et
+	url = https://github.com/info201a-wi20/project-app-T3ch12et.git
