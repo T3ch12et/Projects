@@ -1,0 +1,2 @@
+# Tourist Attraction Maps (Tacoma, Pierce, Thurston)
+Maps of the targeted areas featuring appealing tourist attractions. This project involved researching and assembling customized datasets for tourist attractions like breweries, distilleries, parks, and casinos using tools such as Google My Maps, HPI Polygon Tool, and Geojson.io. Developed QGIS maps aimed at boosting tourism and revenue in Tacoma, Pierce, and Thurston Counties. Collaborated closely with stakeholders to tailor the project to their needs and enhance outcomes by incorporating expertise-based inputs.
